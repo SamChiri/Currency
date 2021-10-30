@@ -1,2 +1,2 @@
 # SamCoin
-SamCoin
+Principles of Financial Markets
