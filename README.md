@@ -1,2 +1,2 @@
-# Currency
+# SamCoin
 SamCoin
